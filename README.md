@@ -14,5 +14,4 @@ This is a simple static website created using HTML & CSS and hosted on GitHub Pa
 --Choose / (root).
 --Click the Save button.
 
-Output
---
+
